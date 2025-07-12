@@ -3,3 +3,4 @@ langchain_community
 langchain_groq
 python_dotenv
 notebook
+streamlit
