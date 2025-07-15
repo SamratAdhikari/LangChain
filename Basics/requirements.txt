@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain_groq
+python_dotenv
+notebook
+streamlit
+wikipedia
+numexpr
+google-search-results
