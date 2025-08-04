@@ -1,0 +1,8 @@
+pandas
+langchain
+langchain_community
+langchain_groq
+chromdb
+notebook
+sentence_transformers
+
